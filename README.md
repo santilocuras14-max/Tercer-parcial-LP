@@ -42,5 +42,3 @@ Este repositorio contiene la solución a los numerales:
    ```bash
    python src/main.py ejemplo.mtx
    ```
-
-Crea tu propio repositorio en GitHub y sube el contenido de este proyecto.
